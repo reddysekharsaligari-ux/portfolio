@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="120" y="90" width="960" height="620" rx="36" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)"/>
+  <circle cx="330" cy="330" r="118" fill="#F8D778"/>
+  <ellipse cx="430" cy="450" rx="180" ry="60" fill="rgba(255,255,255,0.12)"/>
+  <path d="M700 200H840C892.4 200 935 242.6 935 295V355C935 407.4 892.4 450 840 450H700C647.6 450 605 407.4 605 355V295C605 242.6 647.6 200 700 200Z" fill="rgba(255,255,255,0.08)"/>
+  <text x="770" y="340" fill="#EAF3FF" font-family="Arial, sans-serif" font-size="52" font-weight="700">32°C</text>
+  <text x="770" y="395" fill="#B7C8E4" font-family="Arial, sans-serif" font-size="28">Clear sky</text>
+  <text x="600" y="560" text-anchor="middle" fill="#EAF3FF" font-family="Arial, sans-serif" font-size="42" font-weight="700">Real-Time Weather</text>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="60" x2="1110" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C213C"/>
+      <stop offset="0.5" stop-color="#2957A1"/>
+      <stop offset="1" stop-color="#1A0F33"/>
+    </linearGradient>
+  </defs>
+</svg>

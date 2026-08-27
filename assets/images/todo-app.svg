@@ -1,0 +1,21 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="210" y="100" width="780" height="620" rx="36" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="600" y="180" text-anchor="middle" fill="#EAF3FF" font-family="Arial, sans-serif" font-size="42" font-weight="700">Task Board</text>
+  <rect x="310" y="240" width="580" height="90" rx="18" fill="#182B47"/>
+  <circle cx="370" cy="285" r="20" fill="#1AD6A5"/>
+  <text x="420" y="298" fill="#EAF3FF" font-family="Arial, sans-serif" font-size="30">Build portfolio section</text>
+  <rect x="310" y="360" width="580" height="90" rx="18" fill="#182B47"/>
+  <circle cx="370" cy="405" r="20" fill="#1AD6A5"/>
+  <text x="420" y="418" fill="#EAF3FF" font-family="Arial, sans-serif" font-size="30">Refine project cards</text>
+  <rect x="310" y="480" width="580" height="90" rx="18" fill="#182B47"/>
+  <circle cx="370" cy="525" r="20" fill="#1AD6A5"/>
+  <text x="420" y="538" fill="#EAF3FF" font-family="Arial, sans-serif" font-size="30">Validate responsive layout</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1080" y2="750" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1A2D"/>
+      <stop offset="0.5" stop-color="#122E4A"/>
+      <stop offset="1" stop-color="#1C163B"/>
+    </linearGradient>
+  </defs>
+</svg>
